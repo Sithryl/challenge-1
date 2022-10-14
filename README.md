@@ -7,3 +7,9 @@ as well as clean up repetative css elements to shorten the css page.
 
 With this project, I learned different ways to consolidate similar lines into shorter section as well as how 
 to bug fix lines that don't do what they are inteded to do.
+
+## Link
+https://sithryl.github.io/challenge-1/
+
+## Screenshot
+![Alt text](./assets/images/horiseonpage1.png)
