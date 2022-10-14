@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+
 }
 
 body {
@@ -102,7 +103,8 @@ p {
     max-width: 150px;
 }
 /* consolidated multiple elements to reduce uneeded lines */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+/* changed class id */
+.search-image {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -110,12 +112,14 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* changed class id */
 /* more shortening */
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+.search-image img {
     max-height: 200px;
 }
+/* changed class id */
 /* more shortening */
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+.search-image h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
